@@ -1,0 +1,15 @@
+print(" Dime tu nombre :")
+num = input()
+print("ingrese su apellido :")
+ape = input()
+print("ingrese su edad ")
+edad = int(input())
+print( "ingresa tu direccion :")
+dir= input()
+print("numero de telefono : ")
+numTelefono= int(input())
+print("Digite el genero al que pertenece :")
+genero = input()
+
+
+print("los datos que ingresaste son : \nNombre y Apellido:" , num ,ape ,"\nEdad:" ,edad,"\nDirección:", dir ,"\nNumero de Tel:", numTelefono,"\ngenero:",genero ) 
